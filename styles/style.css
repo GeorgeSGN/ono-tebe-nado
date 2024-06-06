@@ -162,8 +162,6 @@
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  background-size: cover;
-  background-position: center;
   flex-grow: 1;
 }
 
